@@ -21,7 +21,7 @@ Welcome to the Hangman Game repository! Challenge your word-guessing skills in t
 
 ## Demo 🎮
 
-Check out a live demo of the game [here](https://your-game-demo-url.com](piyush6603.github.io/Hangman_Game/).
+Check out a live demo of the game [https://piyush6603.github.io/Hangman_Game/].
 
 ## Contributions 🤝
 
